@@ -3,9 +3,10 @@
 
 
 ### 👨‍💻 About Me
-- 🔥 **15 years old** building production-grade systems
-- 🎯 **Backend Focus:** Microservices, Distributed Systems, APIs
-- 📚 **Learning:** System Design, Algorithms, Clean Architecture
+- 💻 **Backend Developer** specializing in distributed systems and microservices
+- 🏗️ Building scalable, production-ready architectures with Go and Java
+- 📚 Continuously learning system design, clean code, and DevOps practices
+- 🎯 Passionate about solving complex problems with elegant solutions
 
 
 ### 📬 Connect With Me
