@@ -11,7 +11,6 @@
 ### 📬 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DearBruce1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wake_upik/)
-[![Habr](https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/@wake-up/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail:fsokovnin@gmail.com)
 
 ---
