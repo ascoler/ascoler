@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 - 💻 **Backend Developer** specializing in distributed systems and microservices
-- 🏗️ Building scalable, production-ready architectures with Go and Java
-- 📚 Continuously learning system design, clean code, and DevOps practices
+- 🏗️ Building scalable, production-ready architectures with Go 
+- 📚 Continuously learning system design, clean code,
 - 🎯 Passionate about solving complex problems with elegant solutions
 
 
