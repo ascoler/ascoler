@@ -51,8 +51,8 @@ GitHub — это мой рабочий стол, где лежит всё, на
 
 ```json
 {
-  "telegram": "@твой_ник",
-  "email": "твой.email@example.com"
+  "telegram": "@DearBruce1",
+  "email": "fsokovnin@gmail.com"
 }
 ```
 <div align="center">
